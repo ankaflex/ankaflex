@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently JS ...
 - 💬 Ask me about ...
 --> 
-📊 GitHub Stats:
+
 <h3 align="left">:bar_chart: GitHub Stats:</h3>
 <p align="left">
 <img src="https://github-profile-trophy.vercel.app/?username=JaylenOzi&theme=radical" />
